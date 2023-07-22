@@ -1,6 +1,6 @@
 {
   "name": "marchiorineto/mercadopago-sdk-php",
-  "description": "Mercado Pago PHP SDK",
+  "description": "fork of Mercado Pago PHP SDK",
   "type": "library",
   "homepage": "https://github.com/mercadopago/sdk-php",
   "license": "MIT",
@@ -26,13 +26,7 @@
   },
   "autoload": {
     "psr-4": {
-      "MercadoPago\\": [
-        "src/MercadoPago/",
-        "tests/",
-        "src/MercadoPago/Generic/",
-        "src/MercadoPago/Entities/",
-        "src/MercadoPago/Entities/Shared/"
-      ]
+      "MercadoPago\\": ["src/MercadoPago/", "tests/"]
     }
   },
   "scripts": {
