@@ -1,5 +1,5 @@
 {
-  "name": "mercadopago/dx-php",
+  "name": "marchiorineto/mercadopago-sdk-php",
   "description": "Mercado Pago PHP SDK",
   "type": "library",
   "homepage": "https://github.com/mercadopago/sdk-php",
@@ -7,7 +7,7 @@
   "version": "2.5.5",
   "config": {
     "platform": {
-        "php": "7.1"
+      "php": "7.1"
     }
   },
   "require": {
