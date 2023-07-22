@@ -4,6 +4,7 @@
  */
 namespace MercadoPago\Entities\Shared;
 
+use MercadoPago\Entity;
 use MercadoPago\Annotation\Attribute;
 use MercadoPago\Annotation\DenyDynamicAttribute;
 

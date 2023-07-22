@@ -1,6 +1,9 @@
 <?php
+
 namespace MercadoPago;
+
 use MercadoPago\Annotation\Attribute;
+use MercadoPago\Generic\RecuperableError;
 use Exception;
 /**
  * Class Entity
